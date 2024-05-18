@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Shop-main/static/css/main.b41eab1f.css",
-    "main.js": "/Shop-main/static/js/main.015219b6.js",
-    "index.html": "/Shop-main/index.html",
-    "main.b41eab1f.css.map": "/Shop-main/static/css/main.b41eab1f.css.map",
-    "main.015219b6.js.map": "/Shop-main/static/js/main.015219b6.js.map"
+    "main.css": "/Spa-main/static/css/main.b41eab1f.css",
+    "main.js": "/Spa-main/static/js/main.015219b6.js",
+    "index.html": "/Spa-main/index.html",
+    "main.b41eab1f.css.map": "/Spa-main/static/css/main.b41eab1f.css.map",
+    "main.015219b6.js.map": "/Spa-main/static/js/main.015219b6.js.map"
   },
   "entrypoints": [
     "static/css/main.b41eab1f.css",
