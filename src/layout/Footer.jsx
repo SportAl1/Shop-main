@@ -22,7 +22,7 @@ function Footer() {
 				>
 					<div>© {new Date().getFullYear()} Алина Коваль ТКБО-01-22</div>
 					<a
-						href='https://github.com/SoldatovaNastya/SPA_PROJECT'
+						href='https://github.com/SportAl1/Spa-main'
 						style={{
 							textDecoration: 'none',
 							color: 'inherit',
